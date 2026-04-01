@@ -1,0 +1,26 @@
+app/src/main/java/com/openswipe/OpenSwipeApp.kt
+  884d9635c647d19c 95-119
+app/src/main/java/com/openswipe/service/GestureAccessibilityService.kt
+  884d9635c647d19c 58,60-64,66-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.3",
+  "base_commit_sha": "583074752b1b00585cf0d6ab80e29c8560fff48e",
+  "prompts": {
+    "884d9635c647d19c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bebe8fe9-65d1-4670-9376-916b3856f77a",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "ARCJ137442",
+      "messages": [],
+      "total_additions": 508,
+      "total_deletions": 476,
+      "accepted_lines": 33,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/7a3874c3bf78acf50672a35d7d717a5fa83451b264ecd3439376372156f77e61"
+    }
+  }
+}
